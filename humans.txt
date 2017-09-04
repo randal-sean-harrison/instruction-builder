@@ -1,0 +1,19 @@
+/* Design */
+
+   Project: Instruction Builder
+   Web Design and Development
+
+	Release date: September 5, 2017
+
+   Randal Sean Harrison, Ph.D.
+	Employed: Hesburgh Libraries, University of Notre Dame
+	Contact: rharriso @ nd dot edu
+
+/* Technologies, Credits  */
+
+   Languages: HTML5, CSS3, Javascript
+   Frameworks: jQuery, Bootstrap 3
+   Packages: TinyMCE, filesaver.js, Google prettify
+   Web Fonts: FontAwesome
+
+   IDE/Env: Atom.io
