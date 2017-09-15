@@ -237,12 +237,13 @@ btn.copier {
    width: 44px;
    padding: 8px;
    border-radius: 50px;
-   border: 1px solid #CCCCCC;
+   border: 1px solid grey;
+   cursor: pointer;
 }
 
 .conditional {
    background: transparent;
-   color: #777777;
+   color: grey;
 }
 
 .success {
